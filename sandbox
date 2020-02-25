@@ -1,0 +1,6 @@
+#evil_monster = "Bowser"
+ def princess_peaches_castle(evil_monster = "Bowser")
+  puts "#{evil_monster} is trying to kidnap Princess Peach!"
+princess_peaches_castle(evil_monster)
+end
+ 
